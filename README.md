@@ -2,4 +2,4 @@
 # Safepass
 
 Safepass is a secure, open-source password generator browser extension available for Chrome and Firefox. It helps you create strong, customizable passwords with ease.
-
+(https://github.com/d3bvstack/Safepass)
