@@ -1,3 +1,6 @@
+
+<img src="https://avatars.githubusercontent.com/u/180553755?v=4" alt="Profile picture" height="100" style="border-radius: 10%; margin-bottom: 32px" />
+
 # Projects
 
 [![Safepass](https://github.com/user-attachments/assets/065b62d0-397b-499d-bc0a-de9896ed8b69)](https://github.com/d3bvstack/Safepass)
