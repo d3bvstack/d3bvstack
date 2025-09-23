@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://private-user-images.githubusercontent.com/180553755/492997219-b4d28a03-d102-48b9-9b33-ffcc36d94d92.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NTY0OTYsIm5iZiI6MTc1ODY1NjE5NiwicGF0aCI6Ii8xODA1NTM3NTUvNDkyOTk3MjE5LWI0ZDI4YTAzLWQxMDItNDhiOS05YjMzLWZmY2MzNmQ5NGQ5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxOTM2MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZTU4YmQ4ZGM0ZTIwZjI3MmNkOGUzOWMzMGU3ODkxMGI1M2U5NzlkNzFhMDU5NWQ4ZjU1YTkwZjE4MWIwZGEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ldxzs--4ecka7KKhg059aCCyAzIdXgYR3gz-Z3BWmqk" width="140" style="border-radius: 50%;" alt="d3bvstack Avatar"/>
+  <img src="https://github.com/user-attachments/assets/b4d28a03-d102-48b9-9b33-ffcc36d94d92" width="140" style="border-radius: 50%;" alt="d3bvstack Avatar"/>
 </p>
 <h2 align="left">d3bvstack</h2>
 
