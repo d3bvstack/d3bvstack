@@ -3,6 +3,7 @@
 </p>
 <h2 align="left">d3bvstack</h2>
 
+- **Name:** Diego
 - **Location:** 🌍 Earth
 - **Bio:** Building, refactoring, and experimenting with code (mostly breaking it)!
 
