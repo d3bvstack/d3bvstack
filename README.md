@@ -9,7 +9,7 @@
 
 [<img src="https://github.githubassets.com/favicons/favicon.svg" width="22" alt="GitHub Icon"/> **GitHub**](https://github.com/d3bvstack)
 &nbsp; | &nbsp;
-[<img width="141" height="44" alt="image" src="https://github.com/user-attachments/assets/bd98f022-8797-4399-8394-b5b934e3538c" />](https://www.behance.net/diegobv)
+[<img src="https://a5.behance.net/7d06705d694ab1e4bf35258530c5788898752d74/img/site/favicon.png?cb=264615658" width="22" alt="Behance Icon"/> **Behance**](https://www.behance.net/diegobv)
 
 
 
