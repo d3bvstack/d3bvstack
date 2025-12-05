@@ -15,11 +15,9 @@
 
 <h2 align="left"></h2>
 
-### My Projects
+### Safepass
 
 [![Safepass](https://github.com/user-attachments/assets/065b62d0-397b-499d-bc0a-de9896ed8b69)](https://github.com/d3bvstack/Safepass)
-
-#### Safepass
 
 <a href="https://github.com/d3bvstack/Safepass">
   <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
@@ -29,3 +27,17 @@ Safepass is a secure, open-source password generator browser extension available
 <br><br>
 
 [![Get it on Firefox Add-ons](https://github.com/user-attachments/assets/0dd140e6-750d-4b1d-a658-95f2df9fc82c)](https://addons.mozilla.org/es-ES/firefox/addon/safepass/)
+
+
+<h2 align="left"></h2>
+
+### trim_includes.py
+
+[![trim_includes.py](https://github.com/user-attachments/assets/cad3d3cd-0223-4d9a-8f55-cc26e0c6f777)](https://github.com/d3bvstack/trim_includes.py)
+
+<a href="https://github.com/d3bvstack/trim_includes.py">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
+<br><br>
+trim_includes.py is a Python tool for C projects that automatically detects and removes unnecessary `#include` headers from your source files. It works by compiling each file with different include combinations, ensuring only the required headers are kept. The script supports automatic Makefile flag detection, selective fixing, and verbose diagnostics.
+<br><br>
