@@ -28,6 +28,18 @@ Safepass is a secure, open-source password generator browser extension available
 
 [![Get it on Firefox Add-ons](https://github.com/user-attachments/assets/0dd140e6-750d-4b1d-a658-95f2df9fc82c)](https://addons.mozilla.org/es-ES/firefox/addon/safepass/)
 
+<h2 align="left"></h2>
+
+### libft
+
+[![libft](https://github.com/user-attachments/assets/093650cd-2927-4d88-a1c6-55c666fdb6bb)](https://github.com/d3bvstack/libft)
+
+<a href="https://github.com/d3bvstack/libft">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
+<br><br>
+libft is a hands-on C learning project from 42 School. The idea is to re-create some of C standard library functions from scratch in order to understand the foundations of C programming. Every function here is my own implementation, meant to be reused across future C projects in my learning journey.
+<br><br>
 
 <h2 align="left"></h2>
 
