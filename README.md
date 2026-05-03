@@ -13,6 +13,19 @@
 
 <h2 align="left"></h2>
 
+### Inception
+
+[![Inception](https://github.com/user-attachments/assets/816292a3-f6ee-4ed3-9581-3c6fbd41461e)](https://github.com/d3bvstack/Inception)
+
+<a href="https://github.com/d3bvstack/Inception">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
+<br>
+A Docker Compose-based Inception project that deploys a WordPress stack with custom made container images for MariaDB, Nginx, and PHP-FPM services. 
+<br><br>
+
+<h2 align="left"></h2>
+
 ### minishell
 
 [![minishell](https://github.com/user-attachments/assets/38aa83f3-7930-4283-9094-a0d6d07bbcba)](https://github.com/d3bvstack/minishell)
