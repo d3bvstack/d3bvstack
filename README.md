@@ -17,6 +17,8 @@
 
 [![Inception](https://github.com/user-attachments/assets/0ff1de71-ba91-4259-a1f9-0cd089410628)](https://github.com/d3bvstack/Inception)
 
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) [![WordPress](https://img.shields.io/badge/WordPress-5.9-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)  [![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-%23007aaf?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
+
 <a href="https://github.com/d3bvstack/Inception">
   <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
 </a>
