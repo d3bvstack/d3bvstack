@@ -19,12 +19,13 @@
 
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) [![WordPress](https://img.shields.io/badge/WordPress-5.9-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)  [![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-%23007aaf?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
-<a href="https://github.com/d3bvstack/Inception">
-  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
-</a>
 <br>
 A Docker Compose-based Inception project that deploys a WordPress stack with custom made container images for MariaDB, Nginx, and PHP-FPM services. 
 <br><br>
+
+<a href="https://github.com/d3bvstack/Inception">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
 
 <h2 align="left"></h2>
 
@@ -32,12 +33,13 @@ A Docker Compose-based Inception project that deploys a WordPress stack with cus
 
 [![minishell](https://github.com/user-attachments/assets/38aa83f3-7930-4283-9094-a0d6d07bbcba)](https://github.com/d3bvstack/minishell)
 
-<a href="https://github.com/d3bvstack/minishell">
-  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
-</a>
 <br>
 A simple Unix shell implementation in C, supporting command execution, built-in commands, environment variables, pipes, and redirections. Developed as part of the 42 school curriculum to deepen understanding of process management and shell behavior. 
 <br><br>
+
+<a href="https://github.com/d3bvstack/minishell">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
 
 <h2 align="left"></h2>
 
@@ -45,12 +47,13 @@ A simple Unix shell implementation in C, supporting command execution, built-in 
 
 [![libft](https://github.com/user-attachments/assets/093650cd-2927-4d88-a1c6-55c666fdb6bb)](https://github.com/d3bvstack/libft)
 
-<a href="https://github.com/d3bvstack/libft">
-  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
-</a>
 <br>
 libft is a hands-on C learning project from 42 School. The idea is to re-create some of C standard library functions from scratch in order to understand the foundations of C programming. Every function here is my own implementation, meant to be reused across future C projects in my learning journey.
 <br><br>
+
+<a href="https://github.com/d3bvstack/libft">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
 
 <h2 align="left"></h2>
 
@@ -58,13 +61,14 @@ libft is a hands-on C learning project from 42 School. The idea is to re-create 
 
 [![Safepass](https://github.com/user-attachments/assets/065b62d0-397b-499d-bc0a-de9896ed8b69)](https://github.com/d3bvstack/Safepass)
 
-<a href="https://github.com/d3bvstack/Safepass">
-  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
-</a>
 <br>
 Safepass is a secure, open-source password generator browser extension available for Chrome and Firefox. It helps you create strong, customizable passwords with ease.
 <br><br>
 
 [![Get it on Firefox Add-ons](https://github.com/user-attachments/assets/0dd140e6-750d-4b1d-a658-95f2df9fc82c)](https://addons.mozilla.org/es-ES/firefox/addon/safepass/)
+
+<a href="https://github.com/d3bvstack/Safepass">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
 
 <h2 align="left"></h2>
