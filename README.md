@@ -28,6 +28,19 @@ A Docker Compose-based Inception project that deploys a WordPress stack with cus
 
 <h2 align="left"></h2>
 
+### 98-Webserv
+
+[![98Webserv](https://github.com/user-attachments/assets/56567973-d2b0-45cd-8dab-2c38e2e0637c)](https://github.com/d3bvstack/98-webserv)
+
+Handcrafted HTTP server in C++98. In the process, learning everything from server configuration, sockets, async I/O, event polling, TCP and HTTP protocols, HTTP requests/responses and CGI execution. Second try, this time with a "better?" approach.
+<br><br>
+
+<a href="https://github.com/d3bvstack/98-webserv">
+  <img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" height="24" width="109">
+</a>
+
+<h2 align="left"></h2>
+
 ### minishell
 
 [![minishell](https://github.com/user-attachments/assets/38aa83f3-7930-4283-9094-a0d6d07bbcba)](https://github.com/d3bvstack/minishell)
